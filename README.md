@@ -31,4 +31,4 @@ Jamie Bond | jamie.bond@pathkonkat.com | [Connect on Linkedin](https://linkedin.
 ## Acknowledgments
 
 Adapted from instructions starter files provided by [The Artificial Intelligence Boot Camp at UNC Charlotte](https://bootcamp.charlotte.edu/artificial-intelligence/), including:
-* Instructions: gradio_sms_text_classifcation.ipynb starter code
+* gradio_sms_text_classifcation.ipynb starter code
